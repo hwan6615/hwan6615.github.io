@@ -60,19 +60,20 @@ order: 4
 	* (2023) BioASQ Task 11b Phase B: Biomedical Semantic QA (Tes/No 공동 1위) 
 		* Test batch 3, 4 Exact Answers 부문 참가 
 	* (2022) 관광데이터 AI 경진대회(7/290 teams), 한국관광공사
+	* (2021) BioASQ Task Synergy 10(Task Synergy–version 1), EU, NLM(National Library of Medicine), Google 
 	* (2021) 국립국어원 인공지능 언어능력 평가(금상, 국어원장상, 최종 2위), 국립국어원
+	* (2021) 월간 데이콘 뉴스 토픽 분류 AI 경진대회, 데이콘
 	* (2021) 인공지능 온라인 경진대회(노년층 대상 감성 분류 모델, 6/21 teams), 과학기술정보통신부, 정보통신기획평가원(IITP)
 	* (2021) 동서발전 태양관 발전량 예측 AI 경진대회, 한국동서발전㈜
-	* (2021) 월간 데이콘 뉴스 토픽 분류 AI 경진대회, 데이콘
-	* (2021) BioASQ Task Synergy 10(Task Synergy–version 1), EU, NLM(National Library of Medicine), Google 
 	* (2021) AI Grand Challenge 5차대회 1단계, 과학기술정보통신부, 정보통신기획평가원(IITP)
-	* (2020) 한국어 문서 추출요약 AI 경진대회, Bflysoft, 고려대학교 DSBA연구실
+	* (2020) MZ 인공지능 해커톤 대회(AI 장치용 SST를 위한 의도 분류), 한국정보화진흥원
 	* (2020) 한국어 문서 생성요약 AI 경진대회, Bflysoft, 고려대학교 DSBA연구실
-	* (2020) 산업제어시스템 보안위협 탐지 AI 경진대회, 국가정보원, 국가보안기술연구소, 한국정보보호학회
+	* (2020) 한국어 문서 추출요약 AI 경진대회, Bflysoft, 고려대학교 DSBA연구실
 	* (2020) 인공지능 문제해결 경진대회
 		1. 민원 분류 모델(육군)
 		2. 실시간 댓글 분류 모델(SBS)
-	* (2020) MZ 인공지능 해커톤 대회(AI 장치용 SST를 위한 의도 분류), 한국정보화진흥원
+	* (2020) 산업제어시스템 보안위협 탐지 AI 경진대회, 국가정보원, 국가보안기술연구소, 한국정보보호학회
+	
 
 * Projects
 	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 석사 학위논문
