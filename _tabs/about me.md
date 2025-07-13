@@ -75,7 +75,7 @@ order: 4
 	* (2020) MZ 인공지능 해커톤 대회(AI 장치용 SST를 위한 의도 분류), 한국정보화진흥원
 
 * Projects
-	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 개인연구
+	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 석사 학위논문
 	* (2023.04 – 2023.11) Analysis of Question-wise instruction and Option-wise reasoning in Biomedical QA, 개인연구
 	* (2022.06 – 2023.05) 사전 학습 언어모델 기반 질의응답 데이터 셋 생성모델 개발, 전력연구원
 	* (2022.06 – 2022.10) Open Intent Discovery and Style-based Generation with Tracked Masking for Intent Induction in Task-oriented Dialog Systems, 개인연구
