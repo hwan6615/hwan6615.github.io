@@ -47,7 +47,7 @@ order: 4
 
 * Kim Kyung Min, **Dong Hwan Kim**, Seongung Jo, Heung-Seon Oh, and Myeong-Ha Hwang. 2023. TAGS: Text Augmentation with Generation and Selection. _KIPS Transactions on Software and Data Engineering_, 12, 10, (2023), 455-460. DOI: https://doi.org/10.3745/KTSDE.2023.12.10.455.
 
-* (Doing) Text-only Image Captioning 
+* (Doing) Rethinking Text-only Image Captioning: A Text-Level Noise Approach to Contextual Understanding
 
 # Awards
 * [국립국어원 인공지능 언어능력 평가 2위](https://kli.korean.go.kr/corpus/task/taskList.do?taskId=1&clCd=END_TASK&subMenuId=sub01), 국립국어원장상 수상, 2021
@@ -57,13 +57,15 @@ order: 4
 * AI Challenges
 	* (2023) Dialog System Technology Challenge(DSTC 11)
 		* Track 2 - Intent Induction from Conversations for Task-Oriented Dialogue(AWS AI)
+	* (2023) BioASQ Task 11b Phase B: Biomedical Semantic QA (Tes/No 공동 1위) 
+		* Test batch 3, 4 Exact Answers 부문 참가 
 	* (2022) 관광데이터 AI 경진대회(7/290 teams), 한국관광공사
+	* (2021) 국립국어원 인공지능 언어능력 평가(금상, 국어원장상, 최종 2위), 국립국어원
+	* (2021) 인공지능 온라인 경진대회(노년층 대상 감성 분류 모델, 6/21 teams), 과학기술정보통신부, 정보통신기획평가원(IITP)
 	* (2021) 동서발전 태양관 발전량 예측 AI 경진대회, 한국동서발전㈜
 	* (2021) 월간 데이콘 뉴스 토픽 분류 AI 경진대회, 데이콘
 	* (2021) BioASQ Task Synergy 10(Task Synergy–version 1), EU, NLM(National Library of Medicine), Google 
 	* (2021) AI Grand Challenge 5차대회 1단계, 과학기술정보통신부, 정보통신기획평가원(IITP)
-	* (2021) 인공지능 온라인 경진대회(노년층 대상 감성 분류 모델, 6/21 teams), 과학기술정보통신부, 정보통신기획평가원(IITP)
-	* (2021) 국립국어원 인공지능 언어능력 평가(금상, 국어원장상, 최종 2위), 국립국어원
 	* (2020) 한국어 문서 추출요약 AI 경진대회, Bflysoft, 고려대학교 DSBA연구실
 	* (2020) 한국어 문서 생성요약 AI 경진대회, Bflysoft, 고려대학교 DSBA연구실
 	* (2020) 산업제어시스템 보안위협 탐지 AI 경진대회, 국가정보원, 국가보안기술연구소, 한국정보보호학회
@@ -73,11 +75,12 @@ order: 4
 	* (2020) MZ 인공지능 해커톤 대회(AI 장치용 SST를 위한 의도 분류), 한국정보화진흥원
 
 * Projects
+	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 개인연구
+	* (2023.04 – 2023.11) Analysis of Question-wise instruction and Option-wise reasoning in Biomedical QA, 개인연구
 	* (2022.06 – 2023.05) 사전 학습 언어모델 기반 질의응답 데이터 셋 생성모델 개발, 전력연구원
-	* (2021.00 – 2021.00) Multi-turn 감정대회 챗봇 ,한국기술교육대학교(졸업작품)
-	* (2023.00 – 2023.00) Open Intent Discovery and Style-based Generation with Tracked Masking for Intent Induction in Task-oriented Dialog Systems, 개인연구
-	* (2023.03 – 2023.11) Automatic Tree-of-Thought Instruction Optimization in medical domain (BiomedicalQA), 개인연구
-	* (2024.09 – 2025.04) Text-only Image Captioning, 개인연구
+	* (2022.06 – 2022.10) Open Intent Discovery and Style-based Generation with Tracked Masking for Intent Induction in Task-oriented Dialog Systems, 개인연구
+	* (2021.03 – 2021.09) Multi-turn 감정대회 챗봇, 학부 졸업작품
+
 
 # Studys
 * [CS231N](https://cs231n.stanford.edu/): CNNs for Visual Recognition
@@ -89,8 +92,9 @@ order: 4
 * Python
 	* DL & ML library : Pytorch, Scikit-learn, etc
 	* Data processing library : Pandas, Numpy, etc
-* Huggingface
+	* NLP library : NLTK, Hugging Face Transformers, etc
 * Linux
 * Git
+* Docker
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
