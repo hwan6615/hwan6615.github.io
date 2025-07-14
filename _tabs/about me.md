@@ -94,6 +94,9 @@ order: 4
 	* DL & ML library : Pytorch, Scikit-learn, etc
 	* Data processing library : Pandas, Numpy, etc
 	* NLP library : NLTK, Hugging Face Transformers, etc
+* LLM
+* Prompt Engineering
+* Elasticsearch
 * Linux
 * Git
 * Docker
