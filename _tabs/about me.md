@@ -54,6 +54,9 @@ order: 4
 ![image](/images/Private 순위표.png)
 
 # Experiences
+* Work Experiences
+	* (2025) MLLM을 활용한 소셜 미디어 이미지 참여도 스코어링 모델 개발
+		* (2025.09.01 – 2025.10.24), 네이버 AI Machine Learning Engineer 체험형 인턴
 * AI Challenges
 	* (2023) Dialog System Technology Challenge(DSTC 11)
 		* Track 2 - Intent Induction from Conversations for Task-Oriented Dialogue(AWS AI)
@@ -76,6 +79,8 @@ order: 4
 	
 
 * Projects
+	* (2025.02) Salesforce xLAM 데이터셋 기반 Function Calling 및 Tool Retrieval (RAG) AI 에이전트 개발
+	* (2025.02) KMMLU 기반 한국어 법률 질의응답 RAG Agent System 개발 
 	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 석사 학위논문
 	* (2023.04 – 2023.11) Analysis of Question-wise instruction and Option-wise reasoning in Biomedical QA, 개인연구
 	* (2022.06 – 2023.05) 사전 학습 언어모델 기반 질의응답 데이터 셋 생성모델 개발, 전력연구원
