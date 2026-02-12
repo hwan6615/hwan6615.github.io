@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-> ![image](/images/img2.png)
+> ![image](/images/img2.jpg)
 # Dong-Hwan Kim
 * Birth : 1996.03.12
 * E-mail : hwan6615@gmail.com
