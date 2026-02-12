@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-> ![image](/images/img1.png)
+> ![image](/images/img2.png)
 # Dong-Hwan Kim
 * Birth : 1996.03.12
 * E-mail : hwan6615@gmail.com
@@ -47,7 +47,7 @@ order: 4
 
 * Kim Kyung Min, **Dong Hwan Kim**, Seongung Jo, Heung-Seon Oh, and Myeong-Ha Hwang. 2023. TAGS: Text Augmentation with Generation and Selection. _KIPS Transactions on Software and Data Engineering_, 12, 10, (2023), 455-460. DOI: https://doi.org/10.3745/KTSDE.2023.12.10.455.
 
-* (Doing) Rethinking Text-only Image Captioning: A Text-Level Noise Approach to Contextual Understanding
+* (Doing) Cross-Caption Training for Text-Only Image Captioning
 
 # Awards
 * [국립국어원 인공지능 언어능력 평가 2위](https://kli.korean.go.kr/corpus/task/taskList.do?taskId=1&clCd=END_TASK&subMenuId=sub01), 국립국어원장상 수상, 2021
