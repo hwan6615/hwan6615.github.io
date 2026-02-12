@@ -95,15 +95,11 @@ order: 4
 * [CS109](https://web.stanford.edu/class/cs109/) : Probability for Computer Scientists
 
 # Skills
-* Python
-	* DL & ML library : Pytorch, Scikit-learn, etc
-	* Data processing library : Pandas, Numpy, etc
-	* NLP library : NLTK, Hugging Face Transformers, etc
-* LLM
-* Prompt Engineering
-* Elasticsearch
-* Linux
-* Git
-* Docker
+* Frameworks & Libraries: Pytorch, FastAPI, Streamlit, Scikit-learn, Huggingface 
+* Transformers, Pandas, Numpy, OpenAI API, etc 
+* Languages: Python 
+* Research Areas: LLM/MLLM, RAG (Retrieval-Augmented Generation), NLP, Text Generation, Prompt Engineering 
+* Tools: Linux, Docker, Git 
+* Server: A6000, Titan
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
