@@ -66,7 +66,7 @@ order: 4
 	* (2025.02) Salesforce xLAM 데이터셋 기반 Function Calling 및 Tool Retrieval (RAG) AI 에이전트 개발 [v1.0](https://github.com/hwan6615/RAG-Agent-Demo/tree/v1-basic)
 	  - (2025.02) v2.0 고도화: Agentic Workflow, Hybrid Retrieval, Self-Correction, 실시간 검색 연동 [v2.0](https://github.com/hwan6615/RAG-Agent-Demo)
 	* (2025.02) KMMLU 기반 한국어 법률 질의응답 RAG Agent System 개발 
-	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 석사 학위논문 (https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8d85ff1c45eceb6affe0bdc3ef48d419&keyword=Rethinking%20Text-Only%20Image%20Captioning:%20A%20Text-Level%20Noise%20Approach%20to%20Contextual%20Understanding)
+	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 석사 학위논문 [link](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8d85ff1c45eceb6affe0bdc3ef48d419&keyword=Rethinking%20Text-Only%20Image%20Captioning:%20A%20Text-Level%20Noise%20Approach%20to%20Contextual%20Understanding)
 	* (2023.04 – 2023.11) Analysis of Question-wise instruction and Option-wise reasoning in Biomedical QA, 개인연구
 	* (2022.06 – 2023.05) 사전 학습 언어모델 기반 질의응답 데이터 셋 생성모델 개발, 전력연구원
 	* (2022.06 – 2022.10) Open Intent Discovery and Style-based Generation with Tracked Masking for Intent Induction in Task-oriented Dialog Systems, 개인연구
