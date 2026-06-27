@@ -15,10 +15,10 @@ order: 4
 	* GitHub : [https://github.com/hwan6615](https://github.com/hwan6615)
 
 # Education
-* 2016.03 ~ 2022.02
+* 2016.02 ~ 2022.02
 	* B.S Course / Computer Science & Engineering / KOREATECH University
 
-* 2022.03 ~ 2025.08
+* 2022.02 ~ 2025.08
 	* M.S Course / Computer Science & Engineering / KOREATECH University
 
 # Research Interests
@@ -28,6 +28,10 @@ order: 4
 	* Question Answering
 	* Text-only Image Captioning
 	* Large Language Model
+	* Vision-Language Model
+	* Text-to-Image Generation
+	* OCR & Document AI
+	* Multimodal Evaluation
 	* Machine Translation
 	* Sentiment Analysis
 	* Named Entity Recognition
@@ -48,7 +52,11 @@ order: 4
 
 * Kim Kyung Min, **Dong Hwan Kim**, Seongung Jo, Heung-Seon Oh, and Myeong-Ha Hwang. 2023. TAGS: Text Augmentation with Generation and Selection. _KIPS Transactions on Software and Data Engineering_, 12, 10, (2023), 455-460. DOI: https://doi.org/10.3745/KTSDE.2023.12.10.455.
 
-* (Doing) Cross-Caption Training for Text-Only Image Captioning
+# Master Thesis
+* Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding
+	* 한국기술교육대학교 석사 학위논문, 2025.08.28
+	* [link](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8d85ff1c45eceb6affe0bdc3ef48d419&keyword=Rethinking%20Text-Only%20Image%20Captioning:%20A%20Text-Level%20Noise%20Approach%20to%20Contextual%20Understanding)
+	* (진행중) ICIP 2026 컨퍼런스 논문 제출
 
 # Awards
 * [국립국어원 인공지능 언어능력 평가 2위](https://kli.korean.go.kr/corpus/task/taskList.do?taskId=1&clCd=END_TASK&subMenuId=sub01), 국립국어원장상 수상, 2021
@@ -58,24 +66,28 @@ order: 4
 
 # Experiences
 * Work Experiences
+	* (2026~) Typography Image Generation 모델 개발을 위한 Ray 기반 대규모 데이터 수집 및 처리, Eval Ops
+		* (2026.03.03 – 진행중), 네이버클라우드 Foundation Model ML Engineer 체험형 인턴
+		* Typography T2I 학습 데이터 파이프라인 구축, VLM/OCR 기반 품질 필터링, 텍스트 렌더링 벤치마크 및 Eval Ops, WebDataset/Object Storage delivery 자동화
+
 	* (2025) MLLM을 활용한 소셜 미디어 이미지 참여도 스코어링 모델 개발
 		* (2025.09.01 – 2025.10.24), 네이버 AI Machine Learning Engineer 체험형 인턴
 
 * Projects
-	* (2025.02) AI Tech Blog Team: LangGraph 기반 Multi-Agent 협업 시스템 개발 [v1.0](https://github.com/hwan6615/Multi-Agent-Tech-Blog-Automation)
-	* (2025.02) Salesforce xLAM 데이터셋 기반 Function Calling 및 Tool Retrieval (RAG) AI 에이전트 개발 [v1.0](https://github.com/hwan6615/RAG-Agent-Demo/tree/v1-basic)
-	  - (2025.02) v2.0 고도화: Agentic Workflow, Hybrid Retrieval, Self-Correction, 실시간 검색 연동 [v2.0](https://github.com/hwan6615/RAG-Agent-Demo)
-	* (2025.02) KMMLU 기반 한국어 법률 질의응답 RAG Agent System 개발 
-	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 석사 학위논문 [link](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8d85ff1c45eceb6affe0bdc3ef48d419&keyword=Rethinking%20Text-Only%20Image%20Captioning:%20A%20Text-Level%20Noise%20Approach%20to%20Contextual%20Understanding)
+	* (2026.02) AI Tech Blog Team: 장기 기억(Memory)을 탑재한 자가 발전형 Multi-Agent 시스템 [v2.0 고도화](https://github.com/hwan6615/Multi-Agent-Tech-Blog-Automation)
+	* (2026.02) Salesforce xLAM 기반 Self-Correcting Agentic RAG 시스템 개발 [v1.0](https://github.com/hwan6615/RAG-Agent-Demo/tree/v1-basic)
+	  - (2026.02) v2.0 고도화: Hybrid Retrieval(BM25+Vector), Self-Correction, 실시간 검색 연동 [v2.0](https://github.com/hwan6615/RAG-Agent-Demo)
+	* (2026.02) KMMLU 기반 한국어 법률 질의응답 RAG Agent System 개발 (Hybrid Search, FastAPI 비동기 서빙)
+	* (2024.09 – 2025.04) Rethinking Text-Only Image Captioning: A Text-Level Noise Approach to Contextual Understanding, 석사 학위논문
 	* (2023.04 – 2023.11) Analysis of Question-wise instruction and Option-wise reasoning in Biomedical QA, 개인연구
 	* (2022.06 – 2023.05) 사전 학습 언어모델 기반 질의응답 데이터 셋 생성모델 개발, 전력연구원
 	* (2022.06 – 2022.10) Open Intent Discovery and Style-based Generation with Tracked Masking for Intent Induction in Task-oriented Dialog Systems, 개인연구
-	* (2021.03 – 2021.09) Multi-turn 감정대회 챗봇, 학부 졸업작품
+	* (2021.03 – 2021.09) 감정대화 챗봇, 학부 졸업작품
 
 * AI Challenges
 	* (2023) Dialog System Technology Challenge(DSTC 11)
 		* Track 2 - Intent Induction from Conversations for Task-Oriented Dialogue(AWS AI)
-	* (2023) BioASQ Task 11b Phase B: Biomedical Semantic QA (Tes/No 공동 1위) 
+	* (2023) BioASQ Task 11b Phase B: Biomedical Semantic QA (Yes/No 공동 1위) 
 		* Test batch 3, 4 Exact Answers 부문 참가 
 	* (2022) 관광데이터 AI 경진대회(7/290 teams), 한국관광공사
 	* (2021) BioASQ Task Synergy 10(Task Synergy–version 1), EU, NLM(National Library of Medicine), Google 
@@ -102,10 +114,15 @@ order: 4
 * [CS109](https://web.stanford.edu/class/cs109/) : Probability for Computer Scientists
 
 # Skills
-* Frameworks & Libraries: Pytorch, FastAPI, Streamlit, Scikit-learn, Huggingface Transformers, Pandas, Numpy, OpenAI API, LangGraph, LangChain, LangSmith, Tavily API, Rank_BM25, FAISS
-* Languages: Python 
-* Research Areas: LLM/MLLM, RAG (Retrieval-Augmented Generation), Hybrid Retrieval, Agentic Workflow, Multi-Agent Systems, Function Calling, NLP, Text Generation, Prompt Engineering, LLM Ops
-* Tools: Linux, Docker, Git, uv
+* Frameworks & Libraries:
+	* DL/NLP: Pytorch, Huggingface Transformers, Scikit-learn, Pandas, Numpy
+	* LLM/Agent: LangGraph, LangChain, LangSmith, OpenAI API, Tavily API, Dify
+	* Web/App: FastAPI, Streamlit, Bruno
+* Languages: Python
+* Databases & Retrieval: FAISS, Rank_BM25, MinIO
+* Research Areas: LLM/MLLM, RAG (Retrieval-Augmented Generation), Hybrid Retrieval, Agentic Workflow, Multi-Agent Systems, Long-term Memory, Function Calling, NLP, Prompt Engineering, LLM Ops
+* ML/CV Data & Eval Ops: VLM/OCR Pipeline, Typography T2I Data Curation, WebDataset, vLLM Serving, Object Storage, Benchmark Automation
+* Tools: Linux, Docker, Docker Compose, Git, uv
 * Server: A6000, Titan
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
